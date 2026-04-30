@@ -1,4 +1,4 @@
-# **Report Bulanan — Content Strategis**
+# **Report Konten — Content Strategis**
 
 ## **1. Informasi Umum**
 
@@ -92,7 +92,7 @@
 
 ---
 
-## **9. Rekomendasi Bulan Berikutnya**
+## **9. Rekomendasi Konten Berikutnya**
 
 ```
 - - - 
