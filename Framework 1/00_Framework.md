@@ -33,7 +33,7 @@ Report Bulanan (2 Jam)
 | Hari   | Pekerjaan        | Output                                               | Format   | Waktu     |
 | ------ | ----------------  | ---------------------------------------------------- | -------- | --------- |
 | Senin  | Content Research  | Laporan Research | Markdown | 180 menit |
-| Selasa   | Content Idea    | Laporan Content Idea                                 | Markdown | 120 menit |
+| Selasa | Content Idea    | Laporan Content Idea                                 | Markdown | 120 menit |
 | Selasa  | Scriptwriting    | Script                                               | Markdown | 60 menit  |
 | Rabu  | Scriptwriting      | Script                                               | Markdown | 180 menit |
 | Kamis | Scripwriting     | Script                                                | Markdown | 120 menit |
@@ -44,30 +44,27 @@ Report Bulanan (2 Jam)
 # Week 2
 | Hari   | Pekerjaan        | Output                          | Format   | Waktu     |
 | ------ | ---------------- | ------------------------------- | -------- | --------- |
-| Senin | Storyboard       | Storyboard                      | Markdown | 60 menit |
-| Senin| Proofread        | Proofread                       | Markdown | 120 menit  |
-| Selasa | Proofread        | Proofread                       | Markdown | 60 menit |
-| Selasa| Persiapan Talent | Recce Talent dan Reading Talent | Markdown | 120 menit |
-| Rabu  | Persiapan Talent | Recce Talent dan Reading Talent | Markdown | 120 menit  |
-| Rabu  | Persiapan Lokasi | Recce Lokasi                    | Markdown | 60 menit  |
-| Kamis| Persiapan Alat   | Laporan Persiapan Alat          | Markdown | 60 menit  |
-| Kamis  | Shooting         | Footage                       | MP4/JPG  | 120 menit  |
-| Jumat  | Shooting         | Footage                      | MP4/JPG  | 180 menit  |
+| Senin  | Storyboard        | Storyboard                      | Markdown | 60 menit |
+| Senin  | Proofread         | Proofread                       | Markdown | 120 menit  |
+| Selasa | Proofread         | Proofread                       | Markdown | 60 menit |
+| Selasa | Berifing Talent   | Photo | Markdown | 120 menit |
+| Rabu   | Berifing Talent   | Photo | Markdown | 120 menit  |
+| Rabu   | Persiapan Lokasi  | Photo                        | Markdown | 60 menit  |
+| Kamis  | Persiapan Alat    | Laporan Persiapan Alat        | Markdown | 60 menit  |
+| Kamis  | Shooting          | Footage                       | MP4/JPG  | 120 menit  |
+| Jumat  | Shooting          | Footage                       | MP4/JPG  | 180 menit  |
 # Week 3
 | Hari   | Pekerjaan            | Output                       | Format               | Waktu     |
 | ------ | -------------------- | ---------------------------- | -------------------- | --------- |
-| Senin  | Shooting             | Footage                     |  MP4/JPG              | 60 menit | 
-| Senin  | Editing              | Laporan Editing Brief        | Markdown dan MP4/PNG | 120 menit |
-| Selasa | Editing              | Laporan Editing Brief        | Markdown dan MP4/PNG | 180 menit |
-| Rabu   | Editing              | Laporan Editing Brief        | Markdown dan MP4/PNG | 60 menit |
-| Rabu  | Upload Time Research | Laporan Upload Time Research | Markdown             | 60 menit  |
-| Rabu | Content Publish      | Laporan Publish              | Markdown             | 60 menit  |
-| Kamis  | Content Promotion    | Clipper                      | MP4 Shorts/Reels     | 180 menit  |
-| Jumat | Content Promotion | Clipper                          | MP4 Shorts/Reels | 60 menit  |
-| Jumat | Report Bulanan    | Laporan Report Bulanan           | Markdown         | 120 menit |
+| Senin  | Shooting             | Footage                      |  MP4/JPG              | 60 menit | 
+| Senin  | Editing Brief        | editing guide                |  MP4/JPG              | 60 menit | 
+| Senin  | Editing              | video                        | Markdown dan MP4/PNG | 120 menit |
+| Selasa | Editing              | video                        | Markdown dan MP4/PNG | 180 menit |
+| Rabu   | Editing              | video                        | Markdown dan MP4/PNG | 60 menit  |
+| Rabu   | Upload Time Research | Laporan Upload Time Research | Markdown           | 60 menit    |
+| Rabu   | Content Scheduling   | Laporan Publish              | Markdown           | 60 menit    |
+| Kamis  | Content Promotion    | Clipper                      | MP4 Shorts/Reels   | 180 menit   |
+| Jumat  | Content Promotion    | Clipper                      | MP4 Shorts/Reels   | 60 menit    |
+| Jumat  | Monev Meeting        | Report Monev                 | MP4 Shorts/Reels   | 60 menit    |
+| Jumat  | Report Bulanan       | Final Report                 | Markdown           | 120 menit   |
 
-# Report Bulanan
-
-| Periode           | Aktivitas                | Detail Output                                                   | Format           | Durasi    |
-| ----------------- | ------------------------ | --------------------------------------------------------------- | ---------------- | --------- |
-| Jumat akhir bulan | Pembuatan Report Bulanan | - Total konten yang diproduksi- Insight performa seluruh konten | Markdown + Media | 120 menit |
