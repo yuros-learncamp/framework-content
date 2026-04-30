@@ -1,4 +1,6 @@
 # Framework content strategis
+
+# content
 ## Project Idea
 Content resarch 6 jam 
 Content idea 2 jam 
@@ -9,25 +11,31 @@ Proofread  3 jam
 Persiapan Alat 1 jam
 Persiapan Lokasi 1 jam
 Persiapan Talent 4 jam
-## Production 
-Shooting 6 jam (Video, desain, foto)
-## Post Production
+## content Production 
+Shooting 6 jam 
+## content Post Production
 Editing 6 jam(Video, desain, foto)
+
 ## Publishing
 Upload Time research 1 jam (markdown)
 Content publish 1 jam (markdown)
 Content Promotion (4 jam)
 Report Bulanan (2 Jam)
 
+# promotion
+## video
+- task 
+## image
+- task
 
 
 # Week 1
 | Hari   | Pekerjaan        | Output                                               | Format   | Waktu     |
-| ------ | ---------------- | ---------------------------------------------------- | -------- | --------- |
-| Senin  | Content Research | Laporan Research, Analysis Competitor, Trend Jacking | Markdown | 180 menit |
-| Selasa   | Content Idea     | Laporan Content Idea                                 | Markdown | 120 menit |
+| ------ | ----------------  | ---------------------------------------------------- | -------- | --------- |
+| Senin  | Content Research  | Laporan Research, Analysis Competitor, Trend Jacking | Markdown | 180 menit |
+| Selasa   | Content Idea    | Laporan Content Idea                                 | Markdown | 120 menit |
 | Selasa  | Scriptwriting    | Script                                               | Markdown | 60 menit  |
-| Rabu  | Scriptwriting    | Script                                               | Markdown | 180 menit |
+| Rabu  | Scriptwriting      | Script                                               | Markdown | 180 menit |
 | Kamis | Scripwriting     | Script                                                | Markdown | 120 menit |
 | Jumat | Storyboard       | Storyboard                      | Markdown | 180 menit  |
 
