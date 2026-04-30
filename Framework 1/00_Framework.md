@@ -1,32 +1,23 @@
 # Framework content strategis
 
-# content
-## Project Idea
-Content resarch 6 jam 
-Content idea 2 jam 
-Scriptwriting 6 jam 
-Storyboard 4 jam
-Proofread  3 jam
-## Pre Production
-Persiapan Alat 1 jam
-Persiapan Lokasi 1 jam
-Persiapan Talent 4 jam
-## content Production 
-Shooting 6 jam 
-## content Post Production
-Editing 6 jam(Video, desain, foto)
-
-## Publishing
-Upload Time research 1 jam (markdown)
-Content publish 1 jam (markdown)
-Content Promotion (4 jam)
-Report Bulanan (2 Jam)
-
-# promotion
-## video
-- task 
-## image
-- task
+ | Tahapan             | Sub Kategori       | Pekerjaan            | Output                  | Format        | Waktu |
+| ------------------- | ------------------ | -------------------- | ----------------------- | ------------- | ----- |
+| **Project Idea**    | Content            | Content Research     | Laporan Research        | Markdown      | 6 jam |
+|                     |                    | Content Idea         | Ide Konten              | Markdown      | 2 jam |
+|                     |                    | Scriptwriting        | Script                  | Markdown      | 6 jam |
+|                     |                    | Storyboard           | Storyboard              | Markdown      | 4 jam |
+|                     |                    | Proofread            | Revisi Script & Ide     | Markdown      | 3 jam |
+| **Pre Production**  | Persiapan          | Persiapan Alat       | Checklist Alat          | Markdown      | 1 jam |
+|                     |                    | Persiapan Lokasi     | Data Lokasi             | Markdown      | 1 jam |
+|                     |                    | Persiapan Talent     | Data Talent             | Markdown      | 4 jam |
+| **Production**      | Content Production | Shooting             | Video, Foto, Desain     | MP4, JPG, PNG | 6 jam |
+| **Post Production** | Editing            | Editing              | Final Konten            | MP4, PNG      | 6 jam |
+| **Publishing**      | Distribusi         | Upload Time Research | Data Waktu Upload       | Markdown      | 1 jam |
+|                     |                    | Content Publish      | Konten Terupload        | Platform      | 1 jam |
+|                     |                    | Content Promotion    | Clipper / Short Content | MP4           | 4 jam |
+|                     |                    | Report Bulanan       | Laporan Bulanan         | Markdown      | 2 jam |
+| **Promotion**       | Video              | Promosi Video        | Video Promosi           | MP4           | -     |
+|                     | Image              | Promosi Gambar       | Konten Visual           | JPG, PNG      | -     |
 
 
 # Week 1
