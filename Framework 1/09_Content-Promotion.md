@@ -2,29 +2,34 @@
 
 ## **1. Ringkasan Umum**
 
-|Kategori|Detail|
-|---|---|
-|Total Konten Utama|Instagram: __ video  <br>TikTok: __ video  <br>YouTube: __ video|
-|Total Clipper|Internal: __ video  <br>Eksternal: __ video|
-|Total Views|Internal: __ views  <br>Eksternal: __ views|
-|Total Biaya|Eksternal: Rp __|
-|Periode|(Contoh: April 2026)|
+| Kategori             | Detail                                                                     |
+| -------------------- | -------------------------------------------------------------------------- |
+| Periode              | (Contoh: April 2026)                                                       |
+| Total Konten Utama   | Instagram: __ video / __ gambar <br>TikTok: __ video <br>YouTube: __ video |
+| Total Konten Promosi | __ video (short/clipper) <br>__ gambar (feed/story)                        |
+| Total Views          | __ views                                                                   |
+| Total Engagement     | __ (like, comment, share)                                                  |
 
 ---
 
 ## **2. Performa Clipper Internal**
 
-|Nama Clipper|Platform|Video Sumber|Jumlah Upload|Total Views|Avg Views|Top Video|
-|---|---|---|---|---|---|---|
-||||||||
+| Platform  | Jenis Konten   | Jumlah Upload | Format               | Keterangan |
+| --------- | -------------- | ------------- | -------------------- | ---------- |
+| Instagram | Video / Gambar |               | Reels / Feed / Story |            |
+| TikTok    | Video          |               | Short Video          |            |
+| YouTube   | Video          |               | Shorts               |            |
 
 ---
 
 ## **3. Performa Clipper Eksternal (Berbayar)**
 
-|Nama Clipper|Platform|Video Sumber|Jumlah Upload|Total Views|Avg Views|Rate / Video|Total Bayar|
-|---|---|---|---|---|---|---|---|
-|||||||||
+| Platform  | Jenis Konten | Total Views | Avg Views | Engagement | Top Content |
+| --------- | ------------ | ----------- | --------- | ---------- | ----------- |
+| Instagram | Video        |             |           |            |             |
+| Instagram | Gambar       |             |           |            |             |
+| TikTok    | Video        |             |           |            |             |
+| YouTube   | Video        |             |           |            |             |
 
 ---
 
@@ -66,6 +71,5 @@
 |---|
 |[ ] Semua data clipper sudah masuk|
 |[ ] Data views sudah valid|
-|[ ] Perhitungan biaya sudah benar|
 |[ ] Insight sudah ditulis|
 |[ ] Report siap dipresentasikan|
