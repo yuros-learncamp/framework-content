@@ -32,7 +32,7 @@ Report Bulanan (2 Jam)
 # Week 1
 | Hari   | Pekerjaan        | Output                                               | Format   | Waktu     |
 | ------ | ----------------  | ---------------------------------------------------- | -------- | --------- |
-| Senin  | Content Research  | Laporan Research, Analysis Competitor, Trend Jacking | Markdown | 180 menit |
+| Senin  | Content Research  | Laporan Research | Markdown | 180 menit |
 | Selasa   | Content Idea    | Laporan Content Idea                                 | Markdown | 120 menit |
 | Selasa  | Scriptwriting    | Script                                               | Markdown | 60 menit  |
 | Rabu  | Scriptwriting      | Script                                               | Markdown | 180 menit |
