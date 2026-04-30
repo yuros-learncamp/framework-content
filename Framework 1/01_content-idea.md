@@ -1,4 +1,4 @@
-# 📋 Content Idea Report
+#  Content Idea Report
 > **Fase:** Project Idea  
 > **Estimasi Waktu:** 120 menit  
 > **PIC:** _______________  
