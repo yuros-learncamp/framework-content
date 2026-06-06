@@ -45,6 +45,9 @@
 * [ ] Framing sesuai storyboard
 
 ---
+## spesial clause
+[ ] ontime
+[ ] tidak ontime
 
 ## Setelah Shooting
 
