@@ -1,228 +1,225 @@
-# Content Research Report
-> **Fase:** Project Idea  
-> **Estimasi Waktu:** 120 menit  
-> **PIC:** _______________  
-> **Tanggal:** _______________  
-> **Referensi Ide:** [Link ke Content Idea Report]
+# Content Breakdown Report
+
+> **Estimasi Waktu:** 60–90 Menit  
+> **PIC:** ____________________  
+> **Tanggal:** ____________________
 
 ---
 
-## 1. Topik yang Diriset
+# 1. Informasi Konten
 
-**Topik Utama:**  
+| Item | Keterangan |
+|--------|------------|
+| Judul Sementara | |
+| Topik | |
+| Platform | YouTube / Instagram / TikTok / X / Blog |
+| Tujuan | Edukasi / Awareness / Engagement / Branding / Konversi |
+| Target Audiens | |
 
-**Kata Kunci yang Dipakai:**  
-_(keyword yang kamu cari di Google, YouTube, TikTok, dll.)_
+---
+
+# 2. Bedah Konten
+
+## Core Message
+
+> Apa satu pesan utama yang harus diingat audiens?
 
 ```
-- 
-- 
-- 
-```
-
----
-
-## 2. Temuan Utama
-
-_Rangkuman hasil riset, bukan copy-paste dari artikel. Tulis pakai bahasa sendiri._
-
-### Fakta / Data Penting
-
-| No  | Fakta / Statistik | Sumber | Tahun |
-| --- | ----------------- | ------ | ----- |
-| 1   |                   |        |       |
-| 2   |                   |        |       |
-| 3   |                   |        |       |
-
-### Insight yang Relevan untuk Konten
-
-_Hal-hal yang bisa langsung dipakai di naskah atau visual. Pilih yang paling "worth it"._
-
-1. 
-2. 
-3. 
-
----
-
-## 3. Sumber Referensi
-
-| Tipe | Nama / Judul | Link | Tingkat Kepercayaan |
-|---|---|---|---|
-| Artikel | | | Tinggi / Sedang / Rendah |
-| Video | | | |
-| Buku / Jurnal | | | |
-| Wawancara / Komentar | | | |
-
-> **Note:** Prioritaskan sumber primer atau yang punya kredibilitas. Forum, Reddit, kolom komentar itu valid tapi tandai sebagai "anekdotal."
-
----
-
-## 4. Kesenjangan Informasi
-
-_Hal yang belum ketemu jawabannya, atau masih ambigu. Perlu riset lanjutan._
-
-```
-- 
-- 
 ```
 
 ---
 
-## 5. Relevansi dengan Konten
+## Masalah yang Diangkat
 
-**Apakah riset ini mendukung angle yang sudah ditentukan?**  
-`[ ] Ya, kuat` `[ ] Sebagian` `[ ] Perlu ubah angle`
-
-**Perubahan angle (kalau ada):**
-
----
-
-## 6. Status
-
-| Status | Nama | Tanggal |
-|---|---|---|
-| Dibuat oleh | | |
-
-**Keputusan:** `[ ] Lanjut ke Competitor Analysis` `[ ] Riset tambahan dulu`
-
---------
-# Competitor Analysis Report
-> **Fase:** Project Idea  
-> **Estimasi Waktu:** 60 menit  
-> **PIC:** _______________  
-> **Tanggal:** _______________
+```
+Masalah apa yang sedang dialami audiens?
+```
 
 ---
 
-## 1. Kompetitor yang Dianalisis
+## Solusi yang Ditawarkan
 
-| No | Nama Akun / Brand | Platform | Niche | Follower |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
+```
+Bagaimana konten ini memberikan solusi?
+```
 
 ---
 
-## 2. Analisis Per Kompetitor
+## Hook
 
-_Isi untuk setiap kompetitor yang relevan. Copy section ini kalau perlu lebih dari satu._
+```
+Kalimat atau visual 3–5 detik pertama yang menarik perhatian.
+```
 
-### Kompetitor A: _______________
+---
 
-**Konten yang Performanya Bagus:**
+## Alur Konten
 
-| Judul / Deskripsi Konten | Views / Engagement | Format | Kenapa Berhasil |
-|---|---|---|---|
-| | | | |
-| | | | |
+| Bagian | Isi |
+|------------|----------------------------|
+| Hook | |
+| Opening | |
+| Pembahasan | |
+| Studi Kasus / Contoh | |
+| Kesimpulan | |
+| Call To Action | |
 
-**Pola Konten Mereka:**  
-_Frekuensi upload, format favorit, cara mereka nge-hook, tone komunikasi._
 
-**Yang Mereka Lakukan dengan Baik:**
+# 4. Bedah Referensi Konten
+
+## Referensi 1
+
+| Item | Catatan |
+|----------------|----------------|
+| Creator | |
+| Link | |
+| Format | Short / Carousel / Video / Thread |
+| Views / Engagement | |
+
+### Yang Menarik
+
 - 
 - 
+- 
 
-**Kelemahan / Gap yang Terlihat:**
+### Yang Bisa Ditingkatkan
+
+- 
 - 
 - 
 
 ---
 
-## 3. Gap Analysis Keseluruhan
+## Referensi 2
 
-_Setelah lihat semua kompetitor, apa yang belum ada atau kurang dari mereka_
+| Item | Catatan |
+|----------------|----------------|
+| Creator | |
+| Link | |
+| Format | Short / Carousel / Video / Thread |
+| Views / Engagement | |
 
-| Gap yang Ditemukan | Peluang untuk Konten Kita |
-|---|---|
+### Yang Menarik
+
+- 
+- 
+- 
+
+### Yang Bisa Ditingkatkan
+
+- 
+- 
+- 
+
+---
+
+# 5. Gap & Peluang
+
+| Yang Sudah Banyak Dibahas | Peluang Konten Kita |
+|----------------------------|--------------------|
 | | |
 | | |
 | | |
 
 ---
 
-## 4. Diferensiasi Kita
+# 6. Diferensiasi Konten
 
-**Apa yang bikin konten kita beda dari semua kompetitor di atas:**
+## Mayoritas Konten Kompetitor
 
 ```
-Kompetitor rata-rata melakukan: 
-
-Kita akan melakukan sebaliknya / berbeda dengan cara:
 ```
 
 ---
 
-## 5. Status
-
-**Keputusan:** `[ ] Lanjut ke Trend Jacking` `[ ] Perlu analisis lebih dalam`
-
------
-#  Trend Jacking Report
-> **Fase:** Project Idea  
-> **Estimasi Waktu:** 120 menit  
-> **PIC:** _______________  
-> **Tanggal:** _______________
-
----
-
-## 1. Tren yang Ditemukan
-
-| No | Nama Tren | Platform | Sejak Kapan | Estimasi Berapa Lama Lagi Relevan |
-|---|---|---|---|---|
-| 1 | | | | |
-| 2 | | | | |
-| 3 | | | | |
-
----
-
-## 2. Detail Tren Utama
-
-_Fokus ke 1–2 tren yang paling relevan. Jangan paksain semua tren masuk._
-
-### Tren: _______________
-
-**Kenapa Tren Ini Sedang Naik:**  
-
-**Konten yang Sudah Pakai Tren Ini:**
-
-| Akun | Link | Views | Format |
-|---|---|---|---|
-| | | | |
-| | | | |
-
-**Relevansi dengan Brand / Topik Kita:**  
-`[ ] Sangat Relevan` `[ ] Bisa Diadaptasi` `[ ] Dipaksain` `[ ] Tidak Relevan`
-
-**Cara Adaptasi (Twist-nya Apa):**  
-_Jangan cuma ikut-ikutan. Tambahkan sudut pandang, format, atau konteks yang bikin beda._
+## Versi Konten Kita
 
 ```
-Tren originalnya: 
-Versi kita: 
 ```
 
-**Urgensi:**  
-`[ ] Harus segera (< 3 hari)` `[ ] Masih relevan minggu ini` `[ ] Masih bisa pekan depan` `[ ] Tidak urgent`
+---
+
+## Nilai Tambah
+
+```
+Mengapa audiens harus menonton konten ini dibanding konten lain?
+```
 
 ---
 
-## 3. Keputusan Trend Jacking
+# 7. Asset Produksi
 
-| Tren | Dipakai | Alasan |
-|---|---|---|
-| | Ya / Tidak | |
-| | Ya / Tidak | |
+## Visual yang Dibutuhkan
 
----
-
-## 4. Catatan
-
-_Tren yang dipantau tapi belum dipakai sekarang, mungkin relevan nanti._
+- [ ] Screenshot
+- [ ] Grafik
+- [ ] B-roll
+- [ ] Animasi
+- [ ] Ilustrasi
+- [ ] Footage
 
 ---
 
-## 5. Status
+## Referensi Visual
 
-**Keputusan:** `[ ] Lanjut ke Content Calendar` `[ ] Tren tidak ada yang cocok, skip`
+```
+```
+
+---
+
+# 8. Catatan Produksi
+
+## Hal yang Harus Diperhatikan
+
+- 
+- 
+- 
+
+---
+
+## Risiko / Informasi yang Perlu Dicek Ulang
+
+- 
+- 
+- 
+
+---
+
+# 9. Ringkasan Konten
+
+## One Line Summary
+
+```
+Jelaskan isi konten dalam satu kalimat.
+```
+
+---
+
+## CTA
+
+```
+```
+
+---
+
+# 10. Status Produksi
+
+| Tahapan | Status |
+|-----------------------|-----------|
+| Ide Disetujui | ☐ |
+| Research Selesai | ☐ |
+| Script Selesai | ☐ |
+| Design / Editing | ☐ |
+| Review | ☐ |
+| Publish | ☐ |
+
+---
+
+# Checklist
+
+- [ ] Topik sudah jelas
+- [ ] Core message sudah kuat
+- [ ] Fakta sudah diverifikasi
+- [ ] Sudah memiliki pembeda dari kompetitor
+- [ ] Asset produksi sudah lengkap
+- [ ] Siap masuk tahap penulisan script
