@@ -37,7 +37,7 @@
 
 ---
 
-## Pembahasan
+## opening
 
 ### Point 1
 
@@ -57,44 +57,68 @@
 - 
 - 
 
+## pra konflik
+
+### Point 1
+
+- 
+- 
+- 
+
+### Point 2
+
+- 
+- 
+- 
+
+### Point 3
+
+- 
+- 
+
+## konflik
+
+### Point 1
+
+- 
+- 
+- 
+
+### Point 2
+
+- 
+- 
+- 
+
+### Point 3
+
+- 
+- 
+- 
+
+## resolusi
+
+### Point 1
+
+- 
+- 
+- 
+
+### Point 2
+
+- 
+- 
+- 
+
+### Point 3
+
+- 
+- 
+## Call to action
+
+### Point 1
+
+- 
+- 
+
 ---
-
-## Closing
-
-- Ringkas isi konten
-- Tegaskan pesan utama
-
-```
-```
-
----
-
-## Call To Action (CTA)
-
-```
-```
-
----
-
-# Asset yang Dibutuhkan
-
-- [ ] Screenshot
-- [ ] B-roll
-- [ ] Grafik
-- [ ] Animasi
-- [ ] Footage
-
-Catatan:
-
-```
-```
-
----
-
-# Checklist
-
-- [ ] Hook sudah jelas
-- [ ] Alur mudah dipahami
-- [ ] Semua poin sudah tersusun
-- [ ] Asset sudah ditentukan
-- [ ] Siap dibuat script lengkap
