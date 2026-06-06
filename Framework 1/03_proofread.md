@@ -1,78 +1,112 @@
-# ✅ Proofread Report
-> **Fase:** Pre-Production  
-> **Estimasi Waktu:** 180 menit  
-> **PIC:** _______________  
-> **Tanggal:** _______________
+# Script Proofread Checklist
+
+> **Estimasi Waktu:** 10–20 Menit
+> **Reviewer:** ____________________
+> **Talent:** ____________________
+> **Tanggal:** ____________________
 
 ---
 
-## Dokumen yang Di-proofread
+# Informasi Konten
 
-| No  | Nama Dokumen     | Versi | Link |
-| --- | ---------------- | ----- | ---- |
-| 1   | Content Research |       |      |
-| 2   | Content Analysis |       |      |
-| 3   | Content Jacking  |       |      |
-| 4   | Content Idea     |       |      |
-
----
-
-## Checklist Proofread
-
-### Script & Narasi
-`[ ]` Tidak ada typo atau salah ketik  
-`[ ]` Kalimat mudah diucapkan (baca keras-keras, bukan diam)  
-`[ ]` Tone sesuai dengan brief  
-`[ ]` Key message tersampaikan dengan jelas  
-`[ ]` CTA ada dan jelas  
-`[ ]` Durasi estimasi masuk akal untuk format konten  
-
-### Visual & Storyboard
-`[ ]` Semua scene ada penjelasan visualnya  
-`[ ]` Tidak ada scene yang ambigu atau bisa salah tafsir  
-`[ ]` Urutan scene logis dan mengalir  
-`[ ]` Durasi per scene realistis  
-
-### Brand Guideline
-`[ ]` Tone komunikasi sesuai brand  
-`[ ]` Tidak ada klaim yang berlebihan atau tidak bisa dibuktikan  
-`[ ]` Produk / layanan disebut dengan benar  
-`[ ]` Tidak ada konten yang berpotensi kontroversial tanpa disengaja  
-
-### Teknis
-`[ ]` Format file sesuai kebutuhan platform  
-`[ ]` Resolusi / aspek rasio sudah benar  
+| Item          | Keterangan |
+| ------------- | ---------- |
+| Judul Konten  |            |
+| Platform      |            |
+| Durasi Target |            |
+| Versi Script  |            |
 
 ---
 
-## Catatan Revisi
+# Review Isi
 
-| No | Dokumen | Bagian | Masalah | Solusi | Sudah Diperbaiki |
-|---|---|---|---|---|---|
-| 1 | | | | | `[ ]` |
-| 2 | | | | | `[ ]` |
-| 3 | | | | | `[ ]` |
+## 1. Pesan Utama
+
+**Apakah pesan utama sudah jelas dan mudah dipahami?**
+
+* [ ] Ya
+* [ ] Perlu revisi
+
+**Catatan:**
+
+```
+```
 
 ---
-## Checklist Proofread
 
-| Kategori                | Checklist                                                          |
-| ----------------------- | ------------------------------------------------------------------ |
-| **Script & Narasi**     | [ ] Tidak ada typo atau salah ketik                                |
-|                         | [ ] Kalimat mudah diucapkan (baca keras-keras, bukan diam)         |
-|                         | [ ] Tone sesuai dengan brief                                       |
-|                         | [ ] Key message tersampaikan dengan jelas                          |
-|                         | [ ] CTA ada dan jelas                                              |
-|                         | [ ] Durasi estimasi masuk akal untuk format konten                 |
-| **Visual & Storyboard** | [ ] Semua scene ada penjelasan visualnya                           |
-|                         | [ ] Tidak ada scene yang ambigu atau bisa salah tafsir             |
-|                         | [ ] Urutan scene logis dan mengalir                                |
-|                         | [ ] Durasi per scene realistis                                     |
-| **Brand Guideline**     | [ ] Tone komunikasi sesuai brand                                   |
-|                         | [ ] Tidak ada klaim yang berlebihan atau tidak bisa dibuktikan     |
-|                         | [ ] Produk / layanan disebut dengan benar                          |
-|                         | [ ] Tidak ada konten yang berpotensi kontroversial tanpa disengaja |
-| **Teknis**              | [ ] Format file sesuai kebutuhan platform                          |
-|                         | [ ] Resolusi / aspek rasio sudah benar                             |
+## 2. Alur Penyampaian
 
-**Disetujui oleh:** _______________ **Tanggal:** _______________
+* [ ] Hook menarik
+* [ ] Pembahasan runtut
+* [ ] Closing jelas
+* [ ] CTA sesuai
+
+**Catatan:**
+
+```
+```
+
+---
+
+## 3. Bahasa
+
+* [ ] Mudah dipahami
+* [ ] Tidak bertele-tele
+* [ ] Natural saat diucapkan
+* [ ] Sesuai karakter talent
+
+**Catatan:**
+
+```
+```
+
+---
+
+## 4. Akurasi
+
+* [ ] Data benar
+* [ ] Tidak ada klaim berlebihan
+* [ ] Istilah sudah tepat
+* [ ] Nama/orang/tempat sudah benar
+
+**Catatan:**
+
+```
+```
+
+---
+
+## 5. Timing
+
+Durasi estimasi:
+
+```
+```
+
+* [ ] Sesuai target
+* [ ] Terlalu panjang
+* [ ] Terlalu pendek
+
+---
+
+# Revisi yang Harus Dilakukan
+
+| Bagian  | Revisi |
+| ------- | ------ |
+| Hook    |        |
+| Isi     |        |
+| Closing |        |
+| CTA     |        |
+
+---
+
+# Status
+
+* [ ] Approved
+* [ ] Minor Revision
+* [ ] Major Revision
+
+## Catatan Reviewer
+
+```
+```
