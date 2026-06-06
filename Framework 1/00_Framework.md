@@ -15,11 +15,11 @@
 # Week 2
 | Hari   | Pekerjaan        | Output                          | Format   | Waktu     |
 | ------ | ---------------- | ------------------------------- | -------- | --------- |
-| Senin | revisi script dari talent          | Storyboard                      | Markdown | 240 menit  |
-| Selasa  | proofread script                 | Storyboard                      | Markdown | 60 menit |
-| Selasa | pembuatan story board             | Proofread                       | Markdown | 180 menit  |
-| Rabu | persiapan peralatan dan tempat      | Photo                           | Markdown | 120 menit |
-| Rabu   | briefing talent untuk shooting    | Photo                             | Markdown | 120 menit  |
+| Senin | revisi script dari talent          | Script                      | Markdown | 240 menit  |
+| Selasa  | proofread script                 | Proofread                      | Markdown | 60 menit |
+| Selasa | pembuatan story board             | storyboard                       | Markdown | 180 menit  |
+| Rabu | persiapan peralatan dan tempat      | Preproduction                           | Markdown | 120 menit |
+| Rabu   | briefing talent untuk shooting    | Preproduction                             | Markdown | 120 menit  |
 | Kamis   | shooting                         | Photo                        | Markdown | 240 menit  |
 | Jumat  | persiapan footage                 | draft editing              | Markdown | 120 menit  |
 | Jumat  | editing                           | draft editing                       | MP4/JPG  | 120 menit  |
