@@ -17,55 +17,15 @@
 | Target Audiens | |
 
 ---
-
-# 2. Bedah Konten
-
-## Core Message
-
-> Apa satu pesan utama yang harus diingat audiens?
-
+# 2 tema
 ```
+masukan tema dari konten yang ingin dibuat
 ```
 
----
-
-## Masalah yang Diangkat
-
-```
-Masalah apa yang sedang dialami audiens?
-```
-
----
-
-## Solusi yang Ditawarkan
-
-```
-Bagaimana konten ini memberikan solusi?
-```
-
----
-
-## Hook
-
-```
-Kalimat atau visual 3–5 detik pertama yang menarik perhatian.
-```
-
----
-
-## Alur Konten
-
-| Bagian | Isi |
-|------------|----------------------------|
-| Hook | |
-| Opening | |
-| Pembahasan | |
-| Studi Kasus / Contoh | |
-| Kesimpulan | |
-| Call To Action | |
 
 
-# 4. Bedah Referensi Konten
+# 3. Referensi Konten
+masukan refrensi refrensi konten konten serupa dengan pembahasan yang mirip dengan konten yang ingin di buat
 
 ## Referensi 1
 
@@ -113,17 +73,7 @@ Kalimat atau visual 3–5 detik pertama yang menarik perhatian.
 
 ---
 
-# 5. Gap & Peluang
-
-| Yang Sudah Banyak Dibahas | Peluang Konten Kita |
-|----------------------------|--------------------|
-| | |
-| | |
-| | |
-
----
-
-# 6. Diferensiasi Konten
+# 4. Diferensiasi Konten
 
 ## Mayoritas Konten Kompetitor
 
@@ -147,27 +97,8 @@ Mengapa audiens harus menonton konten ini dibanding konten lain?
 
 ---
 
-# 7. Asset Produksi
 
-## Visual yang Dibutuhkan
-
-- [ ] Screenshot
-- [ ] Grafik
-- [ ] B-roll
-- [ ] Animasi
-- [ ] Ilustrasi
-- [ ] Footage
-
----
-
-## Referensi Visual
-
-```
-```
-
----
-
-# 8. Catatan Produksi
+# 5. Catatan Produksi
 
 ## Hal yang Harus Diperhatikan
 
@@ -184,42 +115,40 @@ Mengapa audiens harus menonton konten ini dibanding konten lain?
 - 
 
 ---
+# 6. Bedah Konten
 
-# 9. Ringkasan Konten
+## Core Message
 
-## One Line Summary
-
-```
-Jelaskan isi konten dalam satu kalimat.
-```
-
----
-
-## CTA
+> Apa satu pesan utama yang harus diingat audiens?
 
 ```
 ```
 
 ---
+## Hook
 
-# 10. Status Produksi
-
-| Tahapan | Status |
-|-----------------------|-----------|
-| Ide Disetujui | ☐ |
-| Research Selesai | ☐ |
-| Script Selesai | ☐ |
-| Design / Editing | ☐ |
-| Review | ☐ |
-| Publish | ☐ |
+```
+Kalimat atau visual 3–5 detik pertama yang menarik perhatian.
+```
 
 ---
 
-# Checklist
+## Solusi yang Ditawarkan
 
-- [ ] Topik sudah jelas
-- [ ] Core message sudah kuat
-- [ ] Fakta sudah diverifikasi
-- [ ] Sudah memiliki pembeda dari kompetitor
-- [ ] Asset produksi sudah lengkap
-- [ ] Siap masuk tahap penulisan script
+```
+Bagaimana konten ini memberikan solusi?
+```
+
+---
+## Alur Konten
+
+| Bagian | Isi |
+|------------|----------------------------|
+| Hook | |
+| Opening | |
+| prakonflik| |
+| konflik | |
+| Resolusi | |
+| call to action | |
+ 
+
