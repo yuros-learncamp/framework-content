@@ -72,11 +72,18 @@
 **Catatan:**
 
 ```
+
+```
+## 6. Tinjauan hukum
+
+**Catatan:**
+
 ```
 
+```
 ---
 
-## 5. Timing
+## 7. Timing
 
 Durasi estimasi:
 
@@ -94,19 +101,10 @@ Durasi estimasi:
 | Bagian  | Revisi |
 | ------- | ------ |
 | Hook    |        |
-| Isi     |        |
-| Closing |        |
-| CTA     |        |
+| opening     |        |
+| prakonflik |        |
+| konflik     |        |
+| resulusi     |        |
 
 ---
 
-# Status
-
-* [ ] Approved
-* [ ] Minor Revision
-* [ ] Major Revision
-
-## Catatan Reviewer
-
-```
-```
