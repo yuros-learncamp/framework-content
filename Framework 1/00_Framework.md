@@ -7,10 +7,10 @@
 | Senin  | Content Research         | Laporan Research                               | Markdown | 240 menit |
 | Senin  | Content Research         | Laporan Research                               | Markdown | 120 menit |
 | Selasa | pointer script          | Script                                          | Markdown | 120 menit  |
-| selasa   | briefing talent          | Script                                         | Markdown | 120 menit |
+| selasa   | briefing talent          | photo                                         | Markdown | 120 menit |
 | rabu  | suruh talent bikin cript     | Script                                     | Markdown | 240 menit |
-| kamis  | review script dari talent     | Script                                    | Markdown | 180 menit |
-| kamis  | revisi script dari talent     | Script                                    | Markdown | 180 menit |
+| kamis  | review script dari talent     | Script                                    | Markdown | 120 menit |
+| kamis  | revisi script dari talent     | Script                                    | Markdown | 120 menit |
 | Jumat  | proofread script                 | Proofread                          | Markdown | 60 menit |
 | jumat | pembuatan story board             | storyboard                       | Markdown | 180 menit  |
 
